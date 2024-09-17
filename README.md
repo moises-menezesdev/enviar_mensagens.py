@@ -1,4 +1,4 @@
-WhatsApp Notification Script
+# WhatsApp Notification Script
 
 This Python script is designed to read an Excel file containing user data, identify any missing information in the records, and send WhatsApp notifications to the users with incomplete data. It uses the pandas library to handle the Excel file and the pywhatkit library to send WhatsApp messages.
 
